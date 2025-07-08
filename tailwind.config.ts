@@ -57,6 +57,20 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Emergency care wait time status colors
+        wait: {
+          low: "hsl(var(--wait-low))",
+          "low-foreground": "hsl(var(--wait-low-foreground))",
+          medium: "hsl(var(--wait-medium))",
+          "medium-foreground": "hsl(var(--wait-medium-foreground))",
+          long: "hsl(var(--wait-long))",
+          "long-foreground": "hsl(var(--wait-long-foreground))",
+        },
+        emergency: {
+          DEFAULT: "hsl(var(--emergency))",
+          foreground: "hsl(var(--emergency-foreground))",
+          light: "hsl(var(--emergency-light))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",

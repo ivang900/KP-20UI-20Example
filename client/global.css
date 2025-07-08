@@ -54,6 +54,19 @@
     --sidebar-border: 220 13% 91%;
 
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* Emergency care theme colors */
+    --emergency: 0 84% 60%;
+    --emergency-foreground: 0 0% 98%;
+    --emergency-light: 0 84% 96%;
+
+    /* Wait time status colors */
+    --wait-low: 142 76% 36%;
+    --wait-low-foreground: 0 0% 98%;
+    --wait-medium: 48 96% 53%;
+    --wait-medium-foreground: 26 83% 14%;
+    --wait-long: 0 84% 60%;
+    --wait-long-foreground: 0 0% 98%;
   }
 
   .dark {
@@ -92,6 +105,19 @@
     --sidebar-accent-foreground: 240 4.8% 95.9%;
     --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* Emergency care theme colors - dark mode */
+    --emergency: 0 84% 60%;
+    --emergency-foreground: 0 0% 98%;
+    --emergency-light: 0 84% 10%;
+
+    /* Wait time status colors - dark mode */
+    --wait-low: 142 76% 36%;
+    --wait-low-foreground: 0 0% 98%;
+    --wait-medium: 48 96% 53%;
+    --wait-medium-foreground: 26 83% 14%;
+    --wait-long: 0 84% 60%;
+    --wait-long-foreground: 0 0% 98%;
   }
 }
 
