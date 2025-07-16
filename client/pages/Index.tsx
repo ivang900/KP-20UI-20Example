@@ -160,7 +160,7 @@ export default function Index() {
               </h1>
               <div className="flex items-center text-sm text-gray-600 mt-1">
                 <Navigation className="h-4 w-4 mr-1" />
-                <span>Downtown, San Francisco</span>
+                <span>Harbor City, Ca</span>
               </div>
             </div>
             <div className="bg-emergency-light p-3 rounded-full">
