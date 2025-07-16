@@ -286,9 +286,9 @@ export default function Index() {
       </div>
 
       {/* Emergency Call Button */}
-      <div className="fixed bottom-4 left-4 right-4">
-        <button className="w-full bg-emergency text-emergency-foreground py-4 rounded-xl font-semibold text-lg shadow-lg hover:shadow-xl transition-shadow">
-          🚨 Call 911 Emergency
+      <div className="fixed bottom-4 left-4">
+        <button className="bg-emergency text-emergency-foreground px-4 py-2 rounded-lg font-semibold text-sm shadow-lg hover:shadow-xl transition-shadow">
+          🚨 911
         </button>
       </div>
 
