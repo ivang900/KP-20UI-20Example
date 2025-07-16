@@ -156,7 +156,7 @@ export default function Index() {
           <div className="flex items-center justify-between mb-4">
             <div>
               <h1 className="text-2xl font-bold text-gray-900">
-                Emergency Care
+                Kaiser Care Finder
               </h1>
               <div className="flex items-center text-sm text-gray-600 mt-1">
                 <Navigation className="h-4 w-4 mr-1" />

@@ -57,7 +57,7 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
-        // Emergency care wait time status colors
+        // Kaiser Permanente brand and wait time status colors
         wait: {
           low: "hsl(var(--wait-low))",
           "low-foreground": "hsl(var(--wait-low-foreground))",

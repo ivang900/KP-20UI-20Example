@@ -18,7 +18,7 @@
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
+    --primary: 205 100% 31%; /* Kaiser Dark Blue #0067A0 */
     --primary-foreground: 210 40% 98%;
 
     --secondary: 210 40% 96.1%;
@@ -55,10 +55,10 @@
 
     --sidebar-ring: 217.2 91.2% 59.8%;
 
-    /* Emergency care theme colors */
-    --emergency: 0 84% 60%;
+    /* Kaiser Permanente brand colors */
+    --emergency: 267 39% 44%; /* Kaiser Purple #6D449B */
     --emergency-foreground: 0 0% 98%;
-    --emergency-light: 0 84% 96%;
+    --emergency-light: 267 39% 95%; /* Light Kaiser Purple */
 
     /* Wait time status colors */
     --wait-low: 142 76% 36%;
@@ -79,8 +79,8 @@
     --popover: 222.2 84% 4.9%;
     --popover-foreground: 210 40% 98%;
 
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
+    --primary: 205 100% 31%; /* Kaiser Dark Blue #0067A0 */
+    --primary-foreground: 210 40% 98%;
 
     --secondary: 217.2 32.6% 17.5%;
     --secondary-foreground: 210 40% 98%;
@@ -106,10 +106,10 @@
     --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
 
-    /* Emergency care theme colors - dark mode */
-    --emergency: 0 84% 60%;
+    /* Kaiser Permanente brand colors - dark mode */
+    --emergency: 267 39% 44%; /* Kaiser Purple #6D449B */
     --emergency-foreground: 0 0% 98%;
-    --emergency-light: 0 84% 10%;
+    --emergency-light: 267 39% 15%; /* Dark Kaiser Purple */
 
     /* Wait time status colors - dark mode */
     --wait-low: 142 76% 36%;
