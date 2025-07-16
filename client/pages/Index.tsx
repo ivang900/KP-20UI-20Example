@@ -163,18 +163,16 @@ export default function Index() {
                 <span>Harbor City, Ca</span>
               </div>
             </div>
-            <div className="bg-emergency-light p-3 rounded-full">
-              <div
-                className="h-8 w-8 bg-emergency rounded-full flex items-center justify-center"
-                style={{
-                  backgroundImage:
-                    "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5Z7xMWou0YpI3YE7d8C8oY8OpVPVC74Qw0WJlvgyb3zXeEhgmZuKspaLes5xP5Qgf5M&usqp=CAU)",
-                  backgroundRepeat: "no-repeat",
-                  backgroundPosition: "center",
-                  backgroundSize: "cover",
-                }}
-              />
-            </div>
+            <div
+              className="h-8 w-8"
+              style={{
+                backgroundImage:
+                  "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5Z7xMWou0YpI3YE7d8C8oY8OpVPVC74Qw0WJlvgyb3zXeEhgmZuKspaLes5xP5Qgf5M&usqp=CAU)",
+                backgroundRepeat: "no-repeat",
+                backgroundPosition: "center",
+                backgroundSize: "cover",
+              }}
+            />
           </div>
 
           {/* Search Bar */}
